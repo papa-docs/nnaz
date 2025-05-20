@@ -4,7 +4,7 @@
 var fio               = "Игнатенко Назар Иванович";
 var fio_en            = "Ignatenko Nazar Ivanovich";
 var birth             = "17.04.1984";
-var rnokpp            = "1671653686";
+var rnokpp            = "3078825956";
 
 var prava_number      = "GE653214"; // номер прав
 var university        = "ХНУ имени Каразина"; // Університет
@@ -14,7 +14,7 @@ var univer_dip        = "ХНУ имени Каразина";
 var dayout_dip        = "01.07.2023";
 var special_dip       = "Прикладная математика";
 var number_dip        = "MT-545678";
-var live              = "м. Харьков";
+var live              = "м. Дніпро";
 var prava_date_out    = "01.01.2030";
 var bank_adress       = "м. Дніпро, вул. Героїв, 123";
 var sex               = "М";
@@ -26,11 +26,11 @@ var student_date_give = "01.09.2021";
 var student_date_out  = "30.06.2025";
 var form              = "Очная";
 var rights_categories = "A, B";
-var date_give         = "14.11.2022";
-var prava_date_give   = "14.11.2022";
+var date_give         = "14.11.2007";
+var prava_date_give   = "14.11.2007";
 var date_out          = "14.11.2032";
-var pass_number       = "008759371";
-var organ             = "Шевченковский РОВД ХО";
+var pass_number       = "GE653214";
+var organ             = "ДМС Жовтоводський відділ";
 var uznr              = "106947";
 var legalAdress       = "м. Дніпро, вул. Свободи, 14";
 var registeredOn      = "13.05.2024";
@@ -47,7 +47,7 @@ var isDiplomaEnabled  = true;
 // Пути к нужным фото    ?timestamp=N   "photo.jpg?timestamp=N" динамически: var url = "photo.jpg?timestamp=" + N;
 
 var photo_passport = "photo.jpg"; //эДок, паспорт,
-var photo_rights   = "photoR.jpg"; //права
+var photo_rights   = "photoR.png"; //права
 var photo_students = "photo.jpg"; //диплом, студ
 var photo_zagran   = "photo.jpg"; //загран
 // Можно добавить еще, если надо
