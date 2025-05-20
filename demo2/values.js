@@ -1,8 +1,8 @@
 // values.js
 
 // данные 
-var fio               = "Игнатенко Назар Иванович";
-var fio_en            = "Ignatenko Nazar Ivanovich";
+var fio               = "Игнатенко Назар Петрович";
+var fio_en            = "Ignatenko Nazar Petrovich";
 var birth             = "17.04.1984";
 var rnokpp            = "3078825956";
 
@@ -30,10 +30,10 @@ var date_give         = "14.11.2007";
 var prava_date_give   = "14.11.2007";
 var date_out          = "14.11.2032";
 var pass_number       = "GE653214";
-var organ             = "ДМС Жовтоводський відділ";
-var uznr              = "106947";
-var legalAdress       = "м. Дніпро, вул. Свободи, 14";
-var registeredOn      = "13.05.2024";
+var organ             = "1223";
+var uznr              = "19840417-12236";
+var legalAdress       = "Обл. Днiпропетровська, м. Кривий Pir, ул. Лiтке, буд. 85";
+var registeredOn      = "15.03.2007";
 var pravaOrgan        = "ТСЦ 6345 МВС України";
 
 
