@@ -14,9 +14,9 @@ var univer_dip        = "ХНУ имени Каразина";
 var dayout_dip        = "01.07.2023";
 var special_dip       = "Прикладная математика";
 var number_dip        = "MT-545678";
-var live              = "м. Дніпро";
+var live              = "м. Кривий Pir";
 var prava_date_out    = "01.01.2030";
-var bank_adress       = "м. Дніпро, вул. Героїв, 123";
+var bank_adress       = "Обл. Днiпропетровська, м. Кривий Pir, ул. Лiтке, буд. 85";
 var sex               = "М";
 var sex_en            = "M";
 
@@ -34,7 +34,7 @@ var organ             = "1223";
 var uznr              = "19840417-12236";
 var legalAdress       = "Обл. Днiпропетровська, м. Кривий Pir, ул. Лiтке, буд. 85";
 var registeredOn      = "15.03.2007";
-var pravaOrgan        = "ТСЦ 6345 МВС України";
+var pravaOrgan        = "ТСЦ 6345";
 
 
 // Включение/выключение документов
