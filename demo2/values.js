@@ -38,7 +38,9 @@ var pravaOrgan        = "ТСЦ 6345";
 
 
 // Включение/выключение документов
-var isRightsEnabled   = false;
+var isStudyeDoc       = false;
+var isStudypasport    = false;
+var isRightsEnabled   = true;
 var isStudyEnabled    = false;
 var isZagranEnabled   = true;
 var isDiplomaEnabled  = true;
