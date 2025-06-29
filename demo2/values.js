@@ -20,13 +20,13 @@ var bank_adress       = "Обл. Днiпропетровська, м. Криви
 var sex               = "М";
 var sex_en            = "M";
 
-var zagran_number     = "FP9087236";
+var zagran_number     = "GE653214";
 var student_number    = "2022154258";
 var student_date_give = "01.09.2021";
 var student_date_out  = "30.06.2025";
 var form              = "Очная";
 var rights_categories = "A, B";
-var date_give         = "14.11.2007";
+var date_give         = "14.12.2022";
 var prava_date_give   = "14.11.2007";
 var date_out          = "14.11.2032";
 var pass_number       = "GE653214";
